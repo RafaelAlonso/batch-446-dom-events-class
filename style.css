@@ -1,0 +1,12 @@
+.green {
+  color: green;
+}
+
+.big-red {
+  color: red;
+  font-size: 24px;
+}
+
+.rounded {
+  border-radius: 50%;
+}
